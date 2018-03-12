@@ -6,4 +6,4 @@ TimeCalc is a stand-alone executable peice of software (a .exe file).  Although 
 To run TimeCalc:
 1. Download "TimeCalc.zip" from this repository
 2. Unzip "TimeCalc.zip"
-3. Open the TimeCalc folder, and double-click the file labeled "TimeCalc.exe"
+3. Navigate to the TimeCalc -> Program folder, and double-click the file labeled "TIMECALC.exe"
